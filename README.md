@@ -28,3 +28,6 @@
 | Nestor Becerra Sandoval       | - Ventajas<br>- Desventajas       | [Ir al documento](https://github.com/CindyFonck/Devops_23) |
 | Rafael Cortes Martinez        | - Importancia<br>- Historia       | [Ir al documento](https://github.com/CindyFonck/Devops_23) |
 | German Bejarano Martinez      | - Herramientas<br>- Metodos       | [Ir al documento](https://github.com/CindyFonck/Devops_23) |
+
+
+prueba git compartido
