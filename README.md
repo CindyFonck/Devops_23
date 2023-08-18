@@ -30,4 +30,4 @@
 | German Bejarano Martinez      | - Herramientas<br>- Metodos       | [Ir al documento](https://github.com/CindyFonck/Devops_23) |
 
 
-prueba git compartido
+prueba git compartido 18/08/2023
