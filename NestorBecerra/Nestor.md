@@ -31,8 +31,8 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 
 
 <p align="center">
-    <img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(2).png" alt="Imagen 1" width="400" height="150" style="margin-right: 20px;">
-    <img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(1).png?raw=true" alt="Imagen 2" width="400" height="150">
+    <img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(2).png" alt="Imagen 1" width="400" height="300" style="margin-right: 20px;">
+    <img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(1).png?raw=true" alt="Imagen 2" width="400" height="300">
 </p>
 
 
