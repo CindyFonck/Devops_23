@@ -1,7 +1,9 @@
 
 # Ventajas y desventajas de DevOps
 
-![Logo de Devops](https://www.turing.com/blog/wp-content/uploads/2022/08/6-Best-DevOps-Practices-to-Know-scaled.jpg)
+
+
+<img src="https://www.turing.com/blog/wp-content/uploads/2022/08/6-Best-DevOps-Practices-to-Know-scaled.jpg" alt="Texto alternativo" width="300" height="200">
 
 
 las ventajas y desventajas de DevOps pueden variar según la organización, su estructura, su cultura y sus objetivos. Es importante considerar cuidadosamente estos aspectos antes de embarcarse en la adopción de prácticas DevOps.
