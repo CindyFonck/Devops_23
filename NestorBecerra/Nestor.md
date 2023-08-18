@@ -46,3 +46,47 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 5. **Necesidad de habilidades nuevas:** La implementación de DevOps a menudo requiere que los miembros del equipo adquieran nuevas habilidades técnicas y de colaboración.
 
 6. **Dificultades en la estandarización:** Mantener la consistencia en la infraestructura y las prácticas puede ser un desafío cuando se implementa DevOps en organizaciones grandes o con múltiples equipos.
+
+## DevOps vs. Scrum vs. Kanban
+
+DevOps se centra en la colaboración entre desarrollo y operaciones para lograr la entrega continua y la mejora constante, Scrum se enfoca en entregas iterativas y Kanban en la optimización del flujo de trabajo. Cada metodología tiene sus propias ventajas y aplicaciones, y la elección dependerá de las necesidades y la cultura de tu equipo y organización.
+
+
+
+
+                     
+              +--------------------------------------------------+
+              |                   Enfoque y Objetivos              |
+              |                                                  |
+              |                DevOps: Entrega continua,          |
+              |                       automatización, mejora        |
+              |                                                  |
+              |                Scrum: Entrega iterativa, roles    |
+              |                       definidos, sprint            |
+              |                       planificación                |
+              |                                                  |
+              |                Kanban: Flujo de trabajo,          |
+              |                       reducción de desperdicios    |
+              +--------------------------------------------------+
+              |                    Roles y Responsabilidades       |
+              |                                                  |
+              |                DevOps: Colaboración,               |
+              |                       responsabilidad compartida   |
+              |                                                  |
+              |                Scrum: Scrum Master, Product       |
+              |                       Owner, Equipo de Desarrollo   |
+              |                                                  |
+              |                Kanban: Sin roles específicos,     |
+              |                       equipo autoorganizado        |
+              +--------------------------------------------------+
+              |                     Enfoque de Entrega             |
+              |                                                  |
+              |                DevOps: Entrega continua,           |
+              |                       automatización de tareas     |
+              |                                                  |
+              |                Scrum: Entrega al final de         |
+              |                       sprint, versión entregable   |
+              |                                                  |
+              |                Kanban: Flujo constante, sin       |
+              |                       ciclos fijos                 |
+              +--------------------------------------------------+
