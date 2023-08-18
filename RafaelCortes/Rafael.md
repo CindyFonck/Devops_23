@@ -22,6 +22,7 @@ Las razones que han contribuido a un mayor desarrollo de DevOps es:
 # Historia:
 
 El movimiento DevOps empezó a fraguarse entre el 2007 y el 2008, cuando las comunidades de operaciones de TI y desarrollo de software se pronunciaron sobre lo que consideraban una disfunción gravísima del sector.
+
 Se alzaron contra el modelo tradicional de desarrollo de software, que exigía que los que escribían el código se mantuvieran al margen, en términos de organización y operación, de los que implementaban y mantenían dicho código.
 
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops3.jpg" alt="imagen3" width="400"/></p>
