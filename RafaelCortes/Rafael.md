@@ -19,32 +19,16 @@ Las razones que han contribuido a un mayor desarrollo de DevOps es:
 
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops2.JPG" alt="imagen2" width="400"/></p>
 
+# Historia:
 
-**1** Acelera todo el ciclo de vida del software, desde la confirmación del código hasta la implementación en producción.
+El movimiento DevOps empezó a fraguarse entre el 2007 y el 2008, cuando las comunidades de operaciones de TI y desarrollo de software se pronunciaron sobre lo que consideraban una disfunción gravísima del sector.
+Se alzaron contra el modelo tradicional de desarrollo de software, que exigía que los que escribían el código se mantuvieran al margen, en términos de organización y operación, de los que implementaban y mantenían dicho código.
 
-**2** Permite a las organizaciones entregar más rápido las actualizaciones de software y seguridad de forma interna y a los clientes.
-
-**3** Pretende reducir los conflictos que surgen entre los equipos de desarrollo y de operaciones. Los desarrolladores suelen centrarse en satisfacer las demandas empresariales para agregar funcionalidad y mejorar la facilidad de uso de las aplicaciones. Los equipos de operaciones se centran tradicionalmente en la estabilidad y la seguridad de los entornos informáticos.
-
-**4** Proporciona mayor agilidad, mejora la capacidad de respuesta del cliente y reduce el tiempo de comercialización.
-
-**5** Mayor agilidad al reunir a personas, procesos y productos para permitir la entrega continua de valor a los usuarios finales.
-
-**6** Conduce a costos reducidos cuando las organizaciones siguen las prácticas de DevOps. Las organizaciones están mejor capacitadas para lograr sus objetivos, sin importar cuál sea su misión.
-
-
-
-## Ventajas de DevOps:
+<p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops3.jpg" alt="imagen3" width="400"/></p>
 
 
 
 
-
-
-<p align="center">
-    <img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(2).png" alt="Imagen 1" width="400" height="300" style="margin-right: 20px;">
-    <img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(1).png?raw=true" alt="Imagen 2" width="400" height="300">
-</p>
 
 
 
@@ -67,4 +51,4 @@ Las razones que han contribuido a un mayor desarrollo de DevOps es:
 
 - <https://learn.microsoft.com/es-es/azure/developer/mobile-apps/devops>
 
-- <>
+- <https://www.startechup.com/es/blog/history-of-devops/>
