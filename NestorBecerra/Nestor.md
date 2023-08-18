@@ -15,7 +15,7 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 ## Ventajas de DevOps:
 
 
-1. **Mayor eficiencia:** <p>DevOps une a los equipos de desarrollo y operaciones, lo que conduce a una colaboración más estrecha y a una mayor eficiencia en el desarrollo, pruebas, implementación y operación de software.</p>
+1. **Mayor eficiencia:** DevOps une a los equipos de desarrollo y operaciones, lo que conduce a una colaboración más estrecha y a una mayor eficiencia en el desarrollo, pruebas, implementación y operación de software.
 
 2. **Despliegues más rápidos:** La automatización y las prácticas de DevOps permiten despliegues más rápidos y frecuentes de nuevas características y actualizaciones, lo que permite a las empresas responder más rápido a las demandas del mercado y a los cambios en los requisitos.
 
@@ -31,7 +31,7 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 
 
 
-<p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(2).png" alt="logo" width="400"/></p>
+<p align="left"><img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(2).png" alt="logo" width="400"/></p>
 
 
 ## Desventajas de DevOps:
@@ -99,6 +99,8 @@ DevOps se centra en la colaboración entre desarrollo y operaciones para lograr 
 ## Referencias :
 
 - <https://www.markdownguide.org/basic-syntax/>
+
+-<https://www.linkedin.com/pulse/ventajas-y-desventajas-de-las-metodolog%C3%ADas-desarrollo-wagner/?originalSubdomain=es>
 
 
 
