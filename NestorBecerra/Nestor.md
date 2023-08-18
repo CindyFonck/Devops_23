@@ -3,7 +3,8 @@
 
 
 
-![Logo DevOps](https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg.png)
+
+<p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg.png" alt="logo" width="400"/></p>
 
 
 
