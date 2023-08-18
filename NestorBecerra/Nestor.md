@@ -26,6 +26,9 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 6. **Retroalimentación continua:** DevOps promueve la retroalimentación constante del usuario y el monitoreo en tiempo real, lo que permite identificar problemas y mejoras de manera temprana y continua.
 
 
+<p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(2).png" alt="logo" width="400"/></p>
+
+
 ## Desventajas de DevOps:
 
 1. **Cambio cultural:** La implementación exitosa de DevOps a menudo requiere un cambio cultural en la organización, lo que puede ser un proceso desafiante y llevar tiempo.
