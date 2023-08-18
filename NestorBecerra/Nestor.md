@@ -54,6 +54,11 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 
 ## DevOps vs. Scrum vs. Kanban
 
+<p align="center">
+    <img src="https://dashtechinc.com/wp-content/uploads/2022/08/Agile-Vs-Scrum-Vs-DevOps-Dash-Technologies-Inc.png" alt="Imagen 1" width="400" height="300" style="margin-right: 20px;">
+</p>
+
+
 DevOps se centra en la colaboración entre desarrollo y operaciones para lograr la entrega continua y la mejora constante, Scrum se enfoca en entregas iterativas y Kanban en la optimización del flujo de trabajo. Cada metodología tiene sus propias ventajas y aplicaciones, y la elección dependerá de las necesidades y la cultura de tu equipo y organización.
 
 
