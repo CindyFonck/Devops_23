@@ -31,6 +31,12 @@ Los desarrolladores y los profesionales de TI o de operaciones tenían objetivos
 
 Lo que empezó en foros de internet y reuniones locales es ahora uno de los aspectos principales del ámbito del software actual, y seguramente lo que te ha traído hasta aquí. Tú y tu equipo estáis sufriendo el dolor causado por equipos encasillados y líneas de comunicación rotas dentro de la empresa.
 
+Estás utilizando metodologías ágiles en la planificación y el desarrollo, pero te sigue costando sacar ese código sin montar un drama. Seguro que has oído hablar del modelo DevOps y el efecto aparentemente mágico que puede causar en los equipos: casi todos los equipos de DevOps (el 99 %) se mostraron seguros del éxito del código que estaban produciendo en una encuesta de 500 profesionales de DevOps llevada a cabo por Atlassian¹.
+
+Sin embargo, DevOps no es mágico, y los cambios no se dan de la noche a la mañana. Lo bueno es que no hay que esperar a que la alta dirección lance una iniciativa a gran escala. Teniendo en cuenta el valor de DevOps e implantando pequeños cambios de forma gradual, tu equipo se puede embarcar en el viaje hacia DevOps inmediatamente.
+
+<p align="center"> ## Linea de tiempo </p>
+
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops4.JPG" alt="imagen4" width="1000"/></p>
 
 ## Referencias :
