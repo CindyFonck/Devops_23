@@ -1,6 +1,6 @@
 
-# Ventajas y desventajas de DevOps
 
+<p align="center"># Ventajas y desventajas de DevOps.</p>
 
 
 
@@ -34,4 +34,4 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 
 5. **Necesidad de habilidades nuevas:** La implementación de DevOps a menudo requiere que los miembros del equipo adquieran nuevas habilidades técnicas y de colaboración.
 
-6. Dificultades en la estandarización: Mantener la consistencia en la infraestructura y las prácticas puede ser un desafío cuando se implementa DevOps en organizaciones grandes o con múltiples equipos.
+6. **Dificultades en la estandarización:** Mantener la consistencia en la infraestructura y las prácticas puede ser un desafío cuando se implementa DevOps en organizaciones grandes o con múltiples equipos.
