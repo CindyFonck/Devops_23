@@ -1,9 +1,31 @@
 # Importancia
 
-
-
-
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops1.jpg" alt="imagen1" width="400"/></p>
+
+## ¿Por qué es tan importante?
+
+Tras esta definición de DevOps, es el momento de ir un paso más y analizar las razones por las que es muy importante que las empresas se sumen a esta metodología.
+
+Antes de centrarnos en dichos motivos, es interesante destacar que según DevOps.com, el número de compañías que han ido incorporando DevOps ha ido in crescendo cada año más.
+
+Las razones que han contribuido a un mayor desarrollo de DevOps es:
+
+|           Integrantes         |           Integrantes         | 
+| ----------------------------- | ----------------------------- |
+|**1. Ciclos de desarrollo más cortos que favorecen la innovación**| El hecho de que ambos departamentos, desarrollo y operaciones, se junten, favorece el lanzamiento de nuevas aplicaciones, productos… Es bien conocido que cuanta mayor capacidad de innovación tengan las empresas, mayores posibilidades de adelantarse a sus competidores tendrán. Por lo que favorecerá enormemente su competitividad. |
+| ----------------------------- | ----------------------------- |
+| **2. Mayor colaboración, mayor comunicación**| Al producirse la unión entre dos equipos, la productividad es mucho mayor. La cultura de DevOps se centra en obtener el mayor rendimiento de dicha unión, en lugar de preocuparse por los objetivos individuales.
+
+Fruto de la fusión entre ambos departamentos, el proceso es más fluido, ya que todos están orientados a un objetivo común.
+
+Para garantizar que tu equipo DevOp aporta todo su rendimiento, es indispensable crear una cultura de transparencia, conde las responsabilidades sean compartidas y se garantice un feedback rápido. |
+| ----------------------------- | ----------------------------- |
+| **3. Menores tasas de errores de implementación y acelerar tiempos de recuperación**| La mayor parte de los errores que se producen se deben a fallos de programación. Contar con un equipo DevOp, facilitará que en tiempos más cortos se produzcan más lanzamientos. De esta forma, es más probable y sencillo encontrar posibles defectos en el código. Por esta misma razón, en el caso de que se deba dar solución a cualquier problema, la recuperación será más rápida, gracias al conocimiento e involucración de todos los miembros durante el proceso de desarrollo. |
+| ----------------------------- | ----------------------------- |
+| **4. Eficiencia: Mejor gestión de los recursos**| El incremento de la eficiencia favorece a que se reduzcan los tiempos de desarrollo y errores o problemas de código.
+
+En la actualidad existen sistemas de software que automatizan las tareas de DevOps, reduciendo la necesidad de trabajo manual. ¿Qué significa esto? Que los ingenieros de software podrán dedicarse más a aquellas tareas donde la automatización no tiene cabida. |
+| ----------------------------- | ----------------------------- |
 
 
 
@@ -36,60 +58,17 @@
 
 
 
-## Desventajas de DevOps:
 
 
 
-## DevOps vs. Scrum vs. Kanban
 
 <p align="center">
     <img src="https://dashtechinc.com/wp-content/uploads/2022/08/Agile-Vs-Scrum-Vs-DevOps-Dash-Technologies-Inc.png" alt="Imagen 1" width="800" height="300" style="margin-right: 20px;">
 </p>
 
 
-DevOps se centra en la colaboración entre desarrollo y operaciones para lograr la entrega continua y la mejora constante, Scrum se enfoca en entregas iterativas y Kanban en la optimización del flujo de trabajo. Cada metodología tiene sus propias ventajas y aplicaciones, y la elección dependerá de las necesidades y la cultura de tu equipo y organización.
 
 
-
-              +----------------------------------------------------+
-              |                 Enfoque y Objetivos                |
-              |----------------------------------------------------|
-              |   DevOps: Entrega continua,                        |
-              |           automatización, mejora                   |                               
-              |                                                    |
-              |   Scrum:  Entrega iterativa, roles                 |
-              |           definidos, sprint planificación          |    
-              |                                                    |                  
-              |   Kanban: Flujo de trabajo,                        |
-              |           reducción de desperdicios                |
-              |                                                    |
-              |                                                    |
-              +----------------------------------------------------+
-              |                Roles y Responsabilidades           |
-              |----------------------------------------------------|
-              |   DevOps: Colaboración,                            |
-              |           responsabilidad compartida               |
-              |                                                    |
-              |   Scrum:  Scrum Master, Product Owner,             |
-              |           Equipo de Desarrollo                     |
-              |                                                    |
-              |   Kanban: Sin roles específicos,                   |
-              |           equipo autorganizado                     |                            
-              |                                                    |            
-              |                                                    |
-              +----------------------------------------------------+
-              |                 Enfoque de Entrega                 |
-              |----------------------------------------------------|          
-              |   DevOps: Entrega continua,                        |
-              |     automatización de tareas                       |
-              |                                                    |
-              |   Scrum: Entrega al final de                       |
-              |           sprint, versión entregable               |
-              |                                                    |
-              |   Kanban: Flujo constante, sin                     |
-              |           ciclos fijos                             |                                       
-              |                                                    |
-              +----------------------------------------------------+
 
 
 
