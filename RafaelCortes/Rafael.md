@@ -31,7 +31,7 @@ Los desarrolladores y los profesionales de TI o de operaciones tenían objetivos
 
 Lo que empezó en foros de internet y reuniones locales es ahora uno de los aspectos principales del ámbito del software actual, y seguramente lo que te ha traído hasta aquí. Tú y tu equipo estáis sufriendo el dolor causado por equipos encasillados y líneas de comunicación rotas dentro de la empresa.
 
-<p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops4.jpg" alt="imagen4" width="400"/></p>
+<p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops4.JPG" alt="imagen4" width="400"/></p>
 
 ## Referencias :
 
