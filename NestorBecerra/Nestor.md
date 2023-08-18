@@ -1,8 +1,5 @@
 
-
-<p align="center" style="font-size: 18px;"> Ventajas y desventajas de DevOps.</p>
-
-
+# Ventajas y desventajas de DevOps
 
 
 las ventajas y desventajas de DevOps pueden variar según la organización, su estructura, su cultura y sus objetivos. Es importante considerar cuidadosamente estos aspectos antes de embarcarse en la adopción de prácticas DevOps.
