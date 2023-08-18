@@ -55,7 +55,7 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 ## DevOps vs. Scrum vs. Kanban
 
 <p align="center">
-    <img src="https://dashtechinc.com/wp-content/uploads/2022/08/Agile-Vs-Scrum-Vs-DevOps-Dash-Technologies-Inc.png" alt="Imagen 1" width="400" height="300" style="margin-right: 20px;">
+    <img src="https://dashtechinc.com/wp-content/uploads/2022/08/Agile-Vs-Scrum-Vs-DevOps-Dash-Technologies-Inc.png" alt="Imagen 1" width="800" height="300" style="margin-right: 20px;">
 </p>
 
 
