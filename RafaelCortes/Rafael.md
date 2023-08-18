@@ -26,27 +26,6 @@ Se alzaron contra el modelo tradicional de desarrollo de software, que exigía q
 
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops3.jpg" alt="imagen3" width="400"/></p>
 
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-    <img src="https://dashtechinc.com/wp-content/uploads/2022/08/Agile-Vs-Scrum-Vs-DevOps-Dash-Technologies-Inc.png" alt="Imagen 1" width="800" height="300" style="margin-right: 20px;">
-</p>
-
-
-
-
-
-
-
 ## Referencias :
 
 - <https://learn.microsoft.com/es-es/azure/developer/mobile-apps/devops>
