@@ -19,13 +19,19 @@ Las razones que han contribuido a un mayor desarrollo de DevOps es:
 
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops2.JPG" alt="imagen2" width="400"/></p>
 
-# Historia:
+# Historia
 
 El movimiento DevOps empezó a fraguarse entre el 2007 y el 2008, cuando las comunidades de operaciones de TI y desarrollo de software se pronunciaron sobre lo que consideraban una disfunción gravísima del sector.
 
 Se alzaron contra el modelo tradicional de desarrollo de software, que exigía que los que escribían el código se mantuvieran al margen, en términos de organización y operación, de los que implementaban y mantenían dicho código.
 
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops3.jpg" alt="imagen3" width="400"/></p>
+
+Los desarrolladores y los profesionales de TI o de operaciones tenían objetivos distintos (y, a menudo, contrapuestos), direcciones de departamento independientes, indicadores clave del rendimiento diferentes por los que se les evaluaba y, con frecuencia, trabajaban en plantas separadas o, incluso, en edificios separados. El resultado eran equipos aislados que únicamente se preocupaban por su ámbito de trabajo, largas jornadas de trabajo, publicaciones chapuceras y clientes insatisfechos. Entonces se dijeron que tenía que haber una forma mejor de hacerlo. Así pues, iniciaron conversaciones conjuntas con personas como Patrick Dubois, Gene Kim y John Willis al frente.
+
+Lo que empezó en foros de internet y reuniones locales es ahora uno de los aspectos principales del ámbito del software actual, y seguramente lo que te ha traído hasta aquí. Tú y tu equipo estáis sufriendo el dolor causado por equipos encasillados y líneas de comunicación rotas dentro de la empresa.
+
+<p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops4.jpg" alt="imagen4" width="400"/></p>
 
 ## Referencias :
 
