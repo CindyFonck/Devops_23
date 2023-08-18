@@ -35,7 +35,7 @@ Estás utilizando metodologías ágiles en la planificación y el desarrollo, pe
 
 Sin embargo, DevOps no es mágico, y los cambios no se dan de la noche a la mañana. Lo bueno es que no hay que esperar a que la alta dirección lance una iniciativa a gran escala. Teniendo en cuenta el valor de DevOps e implantando pequeños cambios de forma gradual, tu equipo se puede embarcar en el viaje hacia DevOps inmediatamente.
 
-<p align="center"> ## Linea de tiempo </p>
+## Linea de tiempo
 
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/img/devops4.JPG" alt="imagen4" width="1000"/></p>
 
