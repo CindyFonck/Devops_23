@@ -30,6 +30,7 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 
 
 
+
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(2).png" alt="logo" width="400"/></p>
 
 
@@ -53,40 +54,56 @@ DevOps se centra en la colaboración entre desarrollo y operaciones para lograr 
 
 
 
+              +----------------------------------------------------+
+              |                 Enfoque y Objetivos                |
+              |----------------------------------------------------|
+              |   DevOps: Entrega continua,                        |
+              |           automatización, mejora                   |                               
+              |                                                    |
+              |   Scrum:  Entrega iterativa, roles                 |
+              |           definidos, sprint planificación          |    
+              |                                                    |                  
+              |   Kanban: Flujo de trabajo,                        |
+              |           reducción de desperdicios                |
+              |                                                    |
+              |                                                    |
+              +----------------------------------------------------+
+              |                Roles y Responsabilidades           |
+              |----------------------------------------------------|
+              |   DevOps: Colaboración,                            |
+              |           responsabilidad compartida               |
+              |                                                    |
+              |   Scrum:  Scrum Master, Product Owner,             |
+              |           Equipo de Desarrollo                     |
+              |                                                    |
+              |   Kanban: Sin roles específicos,                   |
+              |           equipo autorganizado                     |                            
+              |                                                    |            
+              |                                                    |
+              +----------------------------------------------------+
+              |                 Enfoque de Entrega                 |
+              |----------------------------------------------------|          
+              |   DevOps: Entrega continua,                        |
+              |     automatización de tareas                       |
+              |                                                    |
+              |   Scrum: Entrega al final de                       |
+              |           sprint, versión entregable               |
+              |                                                    |
+              |   Kanban: Flujo constante, sin                     |
+              |           ciclos fijos                             |                                       
+              |                                                    |
+              +----------------------------------------------------+
 
-                     
-              +--------------------------------------------------+
-              |                   Enfoque y Objetivos              |
-              |                                                  |
-              |                DevOps: Entrega continua,          |
-              |                       automatización, mejora        |
-              |                                                  |
-              |                Scrum: Entrega iterativa, roles    |
-              |                       definidos, sprint            |
-              |                       planificación                |
-              |                                                  |
-              |                Kanban: Flujo de trabajo,          |
-              |                       reducción de desperdicios    |
-              +--------------------------------------------------+
-              |                    Roles y Responsabilidades       |
-              |                                                  |
-              |                DevOps: Colaboración,               |
-              |                       responsabilidad compartida   |
-              |                                                  |
-              |                Scrum: Scrum Master, Product       |
-              |                       Owner, Equipo de Desarrollo   |
-              |                                                  |
-              |                Kanban: Sin roles específicos,     |
-              |                       equipo autoorganizado        |
-              +--------------------------------------------------+
-              |                     Enfoque de Entrega             |
-              |                                                  |
-              |                DevOps: Entrega continua,           |
-              |                       automatización de tareas     |
-              |                                                  |
-              |                Scrum: Entrega al final de         |
-              |                       sprint, versión entregable   |
-              |                                                  |
-              |                Kanban: Flujo constante, sin       |
-              |                       ciclos fijos                 |
-              +--------------------------------------------------+
+
+
+## Referencias :
+
+- <https://www.markdownguide.org/basic-syntax/>
+
+
+
+
+
+
+
+
