@@ -1,6 +1,7 @@
 
+<center>
 # Definición 
-
+</center>
 
 <p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/Cindyfonseca/img/dos.png" alt="logo" width="400"/></p>
 
