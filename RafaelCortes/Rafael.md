@@ -17,7 +17,7 @@ Las razones que han contribuido a un mayor desarrollo de DevOps es:
 | **3. Menores tasas de errores de implementación y acelerar tiempos de recuperación**| La mayor parte de los errores que se producen se deben a fallos de programación. Contar con un equipo DevOp, facilitará que en tiempos más cortos se produzcan más lanzamientos. De esta forma, es más probable y sencillo encontrar posibles defectos en el código. Por esta misma razón, en el caso de que se deba dar solución a cualquier problema, la recuperación será más rápida, gracias al conocimiento e involucración de todos los miembros durante el proceso de desarrollo. |
 | **4. Eficiencia: Mejor gestión de los recursos**| El incremento de la eficiencia favorece a que se reduzcan los tiempos de desarrollo y errores o problemas de código. En la actualidad existen sistemas de software que automatizan las tareas de DevOps, reduciendo la necesidad de trabajo manual. ¿Qué significa esto? Que los ingenieros de software podrán dedicarse más a aquellas tareas donde la automatización no tiene cabida.|
 
-<p align="center"><img src="../assets/img/img_ra_02.jpg" alt="imagen2" width="400"/></p>
+<p align="center"><img src="../assets/img/img_ra_02.JPG" alt="imagen2" width="400"/></p>
 
 # Historia
 
@@ -37,7 +37,7 @@ Sin embargo, DevOps no es mágico, y los cambios no se dan de la noche a la mañ
 
 ## Linea de tiempo
 
-<p align="center"><img src="../assets/img/img_ra_04.jpg" alt="imagen4" width="1000"/></p>
+<p align="center"><img src="../assets/img/img_ra_04.JPG" alt="imagen4" width="1000"/></p>
 
 ## Referencias :
 
