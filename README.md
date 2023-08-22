@@ -1,6 +1,6 @@
 
 # DevOps
-- - -
+
 <p align="center"> 
     <img 
         src="./assets/svg/ImageHeader.svg" 
@@ -25,9 +25,9 @@
 |           Integrantes         |               Temas               |                            Enlace                          |
 | ----------------------------- | --------------------------------- | ---------------------------------------------------------- |
 | Cindy Fonseca Alvarez         | - Definición<br>- Caracteristicas | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/CindyFonseca/cindy.md) |
-| Nestor Becerra Sandoval       | - Ventajas<br>- Desventajas       | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/Nestor.md) |
 | Rafael Cortes Martinez        | - Importancia<br>- Historia       | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/Rafael.md) |
-| German Bejarano Martinez      | - Herramientas<br>- Metodos       | [Ir al documento](https://github.com/CindyFonck/Devops_23) |
+| Nestor Becerra Sandoval       | - Ventajas<br>- Desventajas       | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/Nestor.md) |
+| German Bejarano Martinez      | - Ciclo de vida<br>- Practicas<br>- Herramientas<br>       | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/GermanBejarano/GermanBejarano.md) |
 
 
 
