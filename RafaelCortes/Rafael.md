@@ -17,7 +17,7 @@ Las razones que han contribuido a un mayor desarrollo de DevOps es:
 | **3. Menores tasas de errores de implementación y acelerar tiempos de recuperación**| La mayor parte de los errores que se producen se deben a fallos de programación. Contar con un equipo DevOp, facilitará que en tiempos más cortos se produzcan más lanzamientos. De esta forma, es más probable y sencillo encontrar posibles defectos en el código. Por esta misma razón, en el caso de que se deba dar solución a cualquier problema, la recuperación será más rápida, gracias al conocimiento e involucración de todos los miembros durante el proceso de desarrollo. |
 | **4. Eficiencia: Mejor gestión de los recursos**| El incremento de la eficiencia favorece a que se reduzcan los tiempos de desarrollo y errores o problemas de código. En la actualidad existen sistemas de software que automatizan las tareas de DevOps, reduciendo la necesidad de trabajo manual. ¿Qué significa esto? Que los ingenieros de software podrán dedicarse más a aquellas tareas donde la automatización no tiene cabida.|
 
-<p align="center"><img src="./../assets/img/img_ra_02.jpg" alt="imagen2" width="400"/></p>
+<p align="center"><img src="../assets/img/img_ra_02.jpg" alt="imagen2" width="400"/></p>
 
 # Historia
 
@@ -25,7 +25,7 @@ El movimiento DevOps empezó a fraguarse entre el 2007 y el 2008, cuando las com
 
 Se alzaron contra el modelo tradicional de desarrollo de software, que exigía que los que escribían el código se mantuvieran al margen, en términos de organización y operación, de los que implementaban y mantenían dicho código.
 
-<p align="center"><img src="./../assets/img/img_ra_03.jpg" alt="imagen3" width="400"/></p>
+<p align="center"><img src="../assets/img/img_ra_03.jpg" alt="imagen3" width="400"/></p>
 
 Los desarrolladores y los profesionales de TI o de operaciones tenían objetivos distintos (y, a menudo, contrapuestos), direcciones de departamento independientes, indicadores clave del rendimiento diferentes por los que se les evaluaba y, con frecuencia, trabajaban en plantas separadas o, incluso, en edificios separados. El resultado eran equipos aislados que únicamente se preocupaban por su ámbito de trabajo, largas jornadas de trabajo, publicaciones chapuceras y clientes insatisfechos. Entonces se dijeron que tenía que haber una forma mejor de hacerlo. Así pues, iniciaron conversaciones conjuntas con personas como Patrick Dubois, Gene Kim y John Willis al frente.
 
@@ -37,7 +37,7 @@ Sin embargo, DevOps no es mágico, y los cambios no se dan de la noche a la mañ
 
 ## Linea de tiempo
 
-<p align="center"><img src="./../assets/img/img_ra_04.jpg" alt="imagen4" width="1000"/></p>
+<p align="center"><img src="../assets/img/img_ra_04.jpg" alt="imagen4" width="1000"/></p>
 
 ## Referencias :
 
