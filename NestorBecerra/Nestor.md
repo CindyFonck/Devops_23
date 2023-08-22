@@ -4,7 +4,7 @@
 
 
 
-<p align="center"><img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg.png" alt="logo" width="400"/></p>
+<p align="center"><img src="./../assets/img/img_ne_01.png" alt="logo" width="400"/></p>
 
 
 
@@ -31,8 +31,8 @@ las ventajas y desventajas de DevOps pueden variar según la organización, su e
 
 
 <p align="center">
-    <img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(2).png" alt="Imagen 1" width="400" height="300" style="margin-right: 20px;">
-    <img src="https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/img/pngegg%20(1).png?raw=true" alt="Imagen 2" width="400" height="300">
+    <img src="./../assets/img/img_ne_03.png" alt="Imagen 1" width="400" height="300" style="margin-right: 20px;">
+    <img src="./../assets/img/img_ne_02.png" alt="Imagen 2" width="400" height="300">
 </p>
 
 
