@@ -25,21 +25,24 @@ Consiste en aquellas operaciones donde se publica, supervisa y corrige cualquier
 
 Algunas de las características mas relevantes que se tienen en cuenta al momento de poner en práctica DevSecOps son:
 
-•	Integración continua.
-•	Entrega continua y rápida.
-•	Microservicios.
-•	Infraestructura como código.
-•	Monitoreo y registro.
-•	Comunicación y colaboración.
-•	Minimizar riesgos. 
-•	los equipos de desarrollo y operaciones ya no están “aislados”.
-•	automatizar los procesos.
-•	Utilizan una pila de tecnología y herramientas que ayudan a operar y mejorar aplicaciones de forma rápida y   confiable.
-•	Velocidad
-•	Confiabilidad.
-•	Escalado.
-•	Colaboración.
-•	Seguridad.
+<div>
+<ul>
+<li> Integración continua.</li>
+<li> Entrega continua y rápida.</li>
+<li> Microservicios.</li>
+<li> Infraestructura como código.</li>
+<li> Monitoreo y registro.</li>
+<li> Comunicación y colaboración.</li>
+<li> Minimizar riesgos.</li>
+<li> automatizar los procesos.</li>
+<li> Utilizan una pila de tecnología y herramientas que ayudan a operar y mejorar aplicaciones de forma rápida y   confiable.</li>
+<li> Velocidad.</li>
+<li> Confiabilidad</li>
+<li> Escalado.</li>	
+<li> Colaboración.</li>	
+<li> Seguridad.</li>	
+</ul>
+</div>
 
 ## Referencias :
 
