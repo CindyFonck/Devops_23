@@ -24,7 +24,7 @@
 
 |           Integrantes         |               Temas               |                            Enlace                          |
 | ----------------------------- | --------------------------------- | ---------------------------------------------------------- |
-| Cindy Fonseca Alvarez         | - Definición<br>- Caracteristicas | [Ir al documento](https://github.com/CindyFonck/Devops_23) |
+| Cindy Fonseca Alvarez         | - Definición<br>- Caracteristicas | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/CindyFonseca/cindy.md) |
 | Rafael Cortes Martinez        | - Importancia<br>- Historia       | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/Rafael.md) |
 | Nestor Becerra Sandoval       | - Ventajas<br>- Desventajas       | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/Nestor.md) |
 | German Bejarano Martinez      | - Ciclo de vida<br>- Practicas<br>- Herramientas<br>       | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/GermanBejarano/GermanBejarano.md) |
