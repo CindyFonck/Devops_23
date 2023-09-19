@@ -40,3 +40,8 @@ Para esta parte se crea en el un archivo con unos datos aleatorios
 Luego validamos el id del contenedor y vemos el contenido del archivo
 
 <p align="center"><img src="../assets/img/paso2-2.PNG" alt="imagen2-2" width="400"/></p>
+
+Con el comando ejecutado validamos que tiene el contenedor en su raiz
+
+<p align="center"><img src="../assets/img/paso2-3.PNG" alt="imagen2-3" width="400"/></p>
+
