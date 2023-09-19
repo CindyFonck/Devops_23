@@ -14,6 +14,10 @@ Se usa docker tag para darle un nombre a la imagen
 
 <p align="center"><img src="../assets/img/paso3.PNG" alt="imagen3" width="400"/></p>
 
+En esta parte se monta la imagen del repositorio en Docker
 
+<p align="center"><img src="../assets/img/paso4.PNG" alt="imagen4" width="400"/></p>
 
+Esta parte se prueba que la imagen este correctamente montada, desde play whith docker, se ejecuta el siguiente comando para iniciar la imagen creada desde otra instancia diferente a la que estamos.
 
+<p align="center"><img src="../assets/img/paso5.PNG" alt="imagen5" width="400"/></p>
