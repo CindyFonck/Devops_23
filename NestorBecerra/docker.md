@@ -65,11 +65,11 @@ El servicio mysql utiliza la imagen de MySQL y configura algunas variables de en
  # Mejores Prácticas De Creación De Imágenes
 
 
-El comando docker image history se utiliza para mostrar el historial de capas de una imagen de Docker. Proporciona información detallada sobre cómo se construyó una imagen, incluyendo las capas y los comandos que se ejecutaron en cada capa.
+El comando **docker image history** se utiliza para mostrar el historial de capas de una imagen de Docker. Proporciona información detallada sobre cómo se construyó una imagen, incluyendo las capas y los comandos que se ejecutaron en cada capa.
 
   <p align="center"><img src="../assets/img/cap4.png" alt="imagen1" width="400"/></p>
 
---no-trunc: Este flag o indicador se utiliza para mostrar la salida sin truncar. Cuando se omite este indicador, la salida puede ser truncada, lo que significa que se muestran solo los primeros caracteres de cada línea en el historial de la imagen.
+**--no-trunc:** Este flag o indicador se utiliza para mostrar la salida sin truncar. Cuando se omite este indicador, la salida puede ser truncada, lo que significa que se muestran solo los primeros caracteres de cada línea en el historial de la imagen.
 
   <p align="center"><img src="../assets/img/cap5.png" alt="imagen1" width="400"/></p>
 
@@ -80,22 +80,21 @@ El comando docker image history se utiliza para mostrar el historial de capas de
 
 Para reducir el tiempo de compilación de las imágenes Docker utilizando el almacenamiento en caché de capas, puedes seguir estos consejos y buenas prácticas:
 
--Reordena las instrucciones en tu Dockerfile: Docker utiliza un mecanismo de caché de capas para evitar la repetición de instrucciones en el Dockerfile. Coloca las instrucciones que cambian con menos frecuencia al principio del Dockerfile y las instrucciones que cambian con más frecuencia al final. Esto permite aprovechar la caché para las capas que cambian con menos frecuencia.
+**Reordena las instrucciones en tu Dockerfile:** Docker utiliza un mecanismo de caché de capas para evitar la repetición de instrucciones en el Dockerfile. Coloca las instrucciones que cambian con menos frecuencia al principio del Dockerfile y las instrucciones que cambian con más frecuencia al final. Esto permite aprovechar la caché para las capas que cambian con menos frecuencia.
 
-Utiliza capas de imagen base eficientes: Elige imágenes base que sean lo más pequeñas y eficientes posible. Imágenes más grandes llevan más tiempo para descargar y construir. A menudo, las imágenes oficiales de Alpine Linux son más pequeñas y rápidas de construir que las imágenes basadas en Ubuntu o CentOS.
+**Utiliza capas de imagen base eficientes:** Elige imágenes base que sean lo más pequeñas y eficientes posible. Imágenes más grandes llevan más tiempo para descargar y construir. A menudo, las imágenes oficiales de Alpine Linux son más pequeñas y rápidas de construir que las imágenes basadas en Ubuntu o CentOS.
 
-Agrupa comandos relacionados en una sola instrucción: En lugar de tener múltiples instrucciones separadas en tu Dockerfile, agrupa comandos relacionados en una sola instrucción. Por ejemplo, en lugar de:
- 
-
-Esto reduce el número de capas de imagen.
+**Agrupa comandos relacionados en una sola instrucción:** En lugar de tener múltiples instrucciones separadas en tu Dockerfile, agrupa comandos relacionados en una sola instrucción. Por ejemplo, en lugar de:
  
 
 
  <p align="center"><img src="../assets/img/cap1.png" alt="imagen1" width="400"/></p>
 
+ Esto reduce el número de capas de imagen.
+
  <p align="center"><img src="../assets/img/cap2.png" alt="imagen1" width="400"/></p>
 
-#Construcciones de varias etapas
+# Construcciones de varias etapas
 
 El uso de construcciones de varias etapas en Docker ofrece varios beneficios significativos que mejoran la eficiencia, el rendimiento y la seguridad de tus imágenes y contenedores Docker. Aquí están algunos de los beneficios clave:
  
