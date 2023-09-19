@@ -62,7 +62,7 @@ El servicio mysql utiliza la imagen de MySQL y configura algunas variables de en
 
 
  
- #Mejores Prácticas De Creación De Imágenes
+ # Mejores Prácticas De Creación De Imágenes
 
 
 El comando docker image history se utiliza para mostrar el historial de capas de una imagen de Docker. Proporciona información detallada sobre cómo se construyó una imagen, incluyendo las capas y los comandos que se ejecutaron en cada capa.
