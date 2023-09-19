@@ -91,8 +91,9 @@ Esto reduce el número de capas de imagen.
  
 
 
+ <p align="center"><img src="../assets/img/cap1.png" alt="imagen1" width="400"/></p>
 
-
+ <p align="center"><img src="../assets/img/cap2.png" alt="imagen1" width="400"/></p>
 
 #Construcciones de varias etapas
 
@@ -114,5 +115,5 @@ Adecuado para entornos de CI/CD: Las construcciones de varias etapas son compati
  
 Facilita la distribución de artefactos: Puedes copiar artefactos específicos de una etapa a otra, lo que facilita la distribución de archivos generados en una etapa anterior a la etapa final, lo que es útil en casos como la compilación de aplicaciones.
 
-
+ <p align="center"><img src="../assets/img/cap3.png" alt="imagen1" width="400"/></p>
  
