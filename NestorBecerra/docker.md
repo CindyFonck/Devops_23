@@ -67,11 +67,11 @@ El servicio mysql utiliza la imagen de MySQL y configura algunas variables de en
 
 El comando docker image history se utiliza para mostrar el historial de capas de una imagen de Docker. Proporciona información detallada sobre cómo se construyó una imagen, incluyendo las capas y los comandos que se ejecutaron en cada capa.
 
- 
+  <p align="center"><img src="../assets/img/cap4.png" alt="imagen1" width="400"/></p>
 
 --no-trunc: Este flag o indicador se utiliza para mostrar la salida sin truncar. Cuando se omite este indicador, la salida puede ser truncada, lo que significa que se muestran solo los primeros caracteres de cada línea en el historial de la imagen.
 
- 
+  <p align="center"><img src="../assets/img/cap5.png" alt="imagen1" width="400"/></p>
 
 
 
