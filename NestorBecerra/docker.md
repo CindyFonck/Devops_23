@@ -5,7 +5,7 @@
 
  
 
- 
+ <p align="center"><img src="../assets/img/com1.png" alt="imagen1" width="400"/></p>
 
  
 
@@ -13,7 +13,7 @@
 
  
 
- 
+  <p align="center"><img src="../assets/img/com2.png" alt="imagen1" width="400"/></p>
 
  
 
@@ -26,7 +26,7 @@
 ## Paso 3: Definir los servicios en docker-compose.yml 
 
  
-
+ <p align="center"><img src="../assets/img/com3.png" alt="imagen1" width="400"/></p>
  
 
  
@@ -41,7 +41,7 @@ El servicio mysql utiliza la imagen de MySQL y configura algunas variables de en
 ## Paso 4: Crear la carpeta para los archivos HTML personalizados. 
 
  
-
+ <p align="center"><img src="../assets/img/com4.png" alt="imagen1" width="400"/></p>
  
 
  
@@ -50,22 +50,14 @@ El servicio mysql utiliza la imagen de MySQL y configura algunas variables de en
 
  
 
- 
+  <p align="center"><img src="../assets/img/com5.png" alt="imagen1" width="400"/></p>
 
  
 
 ## Paso 6: Ejecutar la aplicación. 
 
- 
 
- 
-
- 
-
- 
-
- 
-
+ <p align="center"><img src="../assets/img/com6.png" alt="imagen1" width="400"/></p>
  
 
  
