@@ -29,3 +29,14 @@ Se especifica el puerto si no aparece para poder ver la imagem
 De esta forma abrira la imagen creada desde otra instancia
 
 <p align="center"><img src="../assets/img/paso7.PNG" alt="imagen7" width="400"/></p>
+
+
+# Paso 5
+
+Para esta parte se crea en el un archivo con unos datos aleatorios
+
+<p align="center"><img src="../assets/img/paso2-1.PNG" alt="imagen2-1" width="400"/></p>
+
+Luego validamos el id del contenedor y vemos el contenido del archivo
+
+<p align="center"><img src="../assets/img/paso2-2.PNG" alt="imagen2-2" width="400"/></p>
