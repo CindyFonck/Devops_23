@@ -45,11 +45,11 @@ Con el comando ejecutado validamos que tiene el contenedor en su raiz
 
 <p align="center"><img src="../assets/img/paso2-3.PNG" alt="imagen2-3" width="400"/></p>
 
-Con el comando ejecutado validamos que tiene el contenedor en su raiz
+Con este comando se elimina el contenedor que se creo el cual el archivo creado se encuentra como temporal 
 
 <p align="center"><img src="../assets/img/paso2-4.PNG" alt="imagen2-4" width="400"/></p>
 
-Con este comando se elimina el contenedor que se creo 
+
 
 
 
