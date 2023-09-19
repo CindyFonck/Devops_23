@@ -21,3 +21,11 @@ En esta parte se monta la imagen del repositorio en Docker
 Esta parte se prueba que la imagen este correctamente montada, desde play whith docker, se ejecuta el siguiente comando para iniciar la imagen creada desde otra instancia diferente a la que estamos.
 
 <p align="center"><img src="../assets/img/paso5.PNG" alt="imagen5" width="400"/></p>
+
+Se especifica el puerto si no aparece para poder ver la imagem 
+
+<p align="center"><img src="../assets/img/paso6.PNG" alt="imagen6" width="400"/></p>
+
+De esta forma abrira la imagen creada desde otra instancia
+
+<p align="center"><img src="../assets/img/paso7.PNG" alt="imagen7" width="400"/></p>
