@@ -57,3 +57,6 @@ Se procede a iniciar el contenedor
 
 <p align="center"><img src="../assets/img/paso2-6.PNG" alt="imagen2-6" width="400"/></p>
 
+Se agregan datos, esto con el fin de validar si se conservan los datos
+
+<p align="center"><img src="../assets/img/paso2-7.PNG" alt="imagen2-7" width="400"/></p>
