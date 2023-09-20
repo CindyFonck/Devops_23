@@ -49,7 +49,11 @@ Con este comando se elimina el contenedor que se creo el cual el archivo creado 
 
 <p align="center"><img src="../assets/img/paso2-4.PNG" alt="imagen2-4" width="400"/></p>
 
+Se crea un volumen llamado todo-db
 
+<p align="center"><img src="../assets/img/paso2-5.PNG" alt="imagen2-5" width="400"/></p>
 
+Se procede a iniciar el contenedor
 
+<p align="center"><img src="../assets/img/paso2-6.PNG" alt="imagen2-6" width="400"/></p>
 
