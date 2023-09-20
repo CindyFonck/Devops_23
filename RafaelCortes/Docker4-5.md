@@ -64,3 +64,9 @@ Se agregan datos, esto con el fin de validar si se conservan los datos
 Se procede a borrar el contenedor creado
 
 <p align="center"><img src="../assets/img/paso2-8.PNG" alt="imagen2-8" width="400"/></p>
+
+Se crea el volumen y se inicia nuevamente el contenedor, al iniciar nuevamente el puerto se evidencia que los datos si persisten
+
+<p align="center"><img src="../assets/img/paso2-9.PNG" alt="imagen2-9" width="400"/></p>
+
+<p align="center"><img src="../assets/img/paso2-10.PNG" alt="imagen2-10" width="400"/></p>
