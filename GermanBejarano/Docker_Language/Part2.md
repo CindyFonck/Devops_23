@@ -85,14 +85,14 @@
         USER node
         COPY . .
         CMD node src/index.js
-        ~~~
+    ~~~
 
-        ***compose.yaml***  
+  ***compose.yaml***  
 
-        `target: dev`: Instrucción para apuntar a la etapa ***dev*** del ***Dockerfile***  
-        `volumes: -. /src:/usr/src/app/src`: Se agrega nuevo volumen para el montaje de enlace
+  `target: dev`: Instrucción para apuntar a la etapa ***dev*** del ***Dockerfile***  
+  `volumes: -. /src:/usr/src/app/src`: Se agrega nuevo volumen para el montaje de enlace
 
-        ~~~
+   ~~~
         services:
             server:
                 build:
