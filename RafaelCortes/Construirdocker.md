@@ -22,4 +22,4 @@ Construye el cliente binario, que se utiliza para enviar mensajes a traducir
 
  Con el comando indica que se crea una imagen con la etiqueta buildme. 
 
-<p align="center"><img src="../assets/img/ buildoc3.PNG" alt="imagen1" width="400"/></p> 
+<p align="center"><img src="../assets/img/ buildoc3.PNG" alt="imagen3" width="400"/></p> 
