@@ -13,7 +13,7 @@ ejemplo: si se neesita un JDK, incluya OpenJDK.
 
 - Utilizar compilaciones de varias etapas. Esto quiere decir usar solo las bibliotecas o dependencias, artefactos o entornos que necesite no todo lo que contiene la imagen. Del mismo modo reducir la cantidad de capas en la imagen minimizando la cantidad de comandos en el Dockerfile. se puede hacer consolidando los comandos en una sola línea de comandos y usando los mecanismos de la shell.
 
-<p align="center"><img src="../CindyFonseca/Dev_with_Docker/BP IMG 1.png" alt="imagen1" width="400"/></p>
+<p align="center"><img src="../CindyFonseca/imagenes docker/BP IMG 1.png" alt="imagen1" width="400"/></p>
 
 - si se tienen varias imagenes que tienen caracteristicas en común, crear una propia imagen, como imagen base.
 
@@ -42,7 +42,7 @@ Crear imagenes eficientes.
 
 Docker crea imágenes automáticamente leyendo las instrucciones de un Dockerfile.
 
-<p align="center"><img src="../CindyFonseca/Dev_with_Docker/BP IMG 2.png" alt="imagen1" width="400"/></p>
+<p align="center"><img src="../CindyFonseca/imagenes docker/BP IMG 2.png" alt="imagen1" width="400"/></p>
 
 - crear contenedores efímeros. esto quiere decir que se pueden detener, eliminar, reconstruir y reemplzar. 
 
