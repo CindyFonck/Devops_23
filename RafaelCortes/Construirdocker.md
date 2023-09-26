@@ -4,7 +4,7 @@ Para empezar a construir con docker, vamos a clonar un repositorio ya existente
 
 En el dockerfile del repositorio clonado se evidencian una serie de instrucciones como se visualiza en la imagen. 
 
- <p align="center"><img src="../assets/img/ buildoc2.PNG" alt="imagen1" width="400"/></p> 
+ <p align="center"><img src="../assets/img/ buildoc2.PNG" alt="imagen2" width="400"/></p> 
 
  Las líneas del dockerfile están indicando que se está utilizando la versión 1.20 de alpinede. 
 
