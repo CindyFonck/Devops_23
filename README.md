@@ -46,5 +46,5 @@
 | ----------------------------- | ---------------------------------------------------------- |
 | Language-specific guide       | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/GermanBejarano/Docker_Language.md) |
 | Develop with Docker           | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/Construirdocker.md) |
-| Build with Docker             | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/GermanBejarano/Docker.md) |
+| Build with Docker             | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/RafaelCortes/Construirdocker.md) |
 | Deployment and orchestration  | [Ir al documento](https://github.com/CindyFonck/Devops_23/blob/main/NestorBecerra/docker.md) |
