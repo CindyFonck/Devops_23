@@ -30,37 +30,33 @@
  
 
  
+Este archivo docker-compose.yml define dos servicios: app y mysql. El servicio app utiliza la imagen de node 18 como servidor  y mapea el puerto 3000 del host al puerto 3000 del contenedor. También se establece el directorio de trabajo dentro del contenedor en "/app". Se monta el directorio actual del host (donde se encuentra el archivo YAML) en el directorio "/app" del contenedor El servicio mysql utiliza la imagen de MySQL y configura algunas variables de entorno como la contraseña de root y el nombre de la base de datos.
+La aplicación Node.js podrá comunicarse con la base de datos MySQL utilizando las variables de entorno definidas en el servicio "app".
 
-Este archivo docker-compose.yml define dos servicios: app y mysql. El servicio app utiliza la imagen de node 18 como servidor  y mapea el puerto 3000 del host al puerto 3000 del contenedor. Además, se utiliza un volumen para servir archivos HTML personalizados desde la carpeta ./html en el host. 
-
-El servicio mysql utiliza la imagen de MySQL y configura algunas variables de entorno como la contraseña de root y el nombre de la base de datos. 
 
  
 
 
-## Paso 4: Crear la carpeta para los archivos HTML personalizados. 
 
- 
- <p align="center"><img src="../assets/img/com4.png" alt="imagen1" width="400"/></p>
- 
-
- 
-
-## Paso 5: Agregar un archivo HTML personalizado. 
-
- 
-
-  <p align="center"><img src="../assets/img/com5.png" alt="imagen1" width="400"/></p>
-
- 
-
-## Paso 6: Ejecutar la aplicación. 
+ ## Paso 4: Ejecutar la aplicación. 
 
 
- <p align="center"><img src="../assets/img/com6.png" alt="imagen1" width="400"/></p>
+ <p align="center"><img src="../assets/img/comp1.png" alt="imagen1" width="400"/></p>
 
 
+Consultamos la aplicación en el navegador en http://l127.0.0.1:3000
 
+ <p align="center"><img src="../assets/img/comp2.png" alt="imagen1" width="400"/></p>
+
+ Usando el comando **docker compose logs -f** Verá los registros de cada uno de los servicios entrelazados en una sola secuencia
+
+  <p align="center"><img src="../assets/img/comp3.png" alt="imagen1" width="400"/></p>
+
+ Con el comando **docker-compose down** se utiliza para detener y eliminar los servicios de contenedores definidos en un archivo Docker Compose y eliminar los recursos relacionados, como redes y volúmenes.
+
+   <p align="center"><img src="../assets/img/comp4.png" alt="imagen1" width="400"/></p>
+
+   
  
  # Mejores Prácticas De Creación De Imágenes
 
