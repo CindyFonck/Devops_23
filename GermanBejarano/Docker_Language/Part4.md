@@ -75,6 +75,8 @@
 
        <p align="left"><img src="../../assets/img/img_ge_docker_27.png" alt="imagen27" width="500"/></p>
 
+       Enlace a Imagen en Docker Hub [aqui](https://hub.docker.com/repository/docker/germanbejarano13/docker/general)
+
 
 ---
 
