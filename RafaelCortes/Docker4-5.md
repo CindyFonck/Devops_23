@@ -3,6 +3,7 @@
 Para compartir imágenes de Docker, se debe crear un repositorio desde Dockerhub 
 
 Se inicia sesión y seguido a esto se crea un repositorio como se muestra en la imagen
+Link: https://hub.docker.com/repository/docker/rafaelcortes12/getting-started/general
 
 <p align="center"><img src="../assets/img/paso1.PNG" alt="imagen1" width="400"/></p>
 
